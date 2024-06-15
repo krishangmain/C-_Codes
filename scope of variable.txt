@@ -1,0 +1,20 @@
+scope of variable
+in cpp we have block scope
+block scope is anything which is written in between curly brraces 
+if we have specific variable in the specific blocks it will only be avaliable in those blocks and not outside the block 
+for example we have a if block in which we havae a new variable x and we try to access it outside in the main fucntion we cannot
+as it wont be avaliable and we will get the error that variable was not declared in the scope 
+now if we have a variable declared in the main fucntion and we want to use it in the if we can but if we have the same variable which we have 
+initailized again in the if block we will use the new value in the if block ans then once we are out of the if block we will use the old value 
+if we have not initailized it agin in the if block and just used it as a noraml variable we will use the value of the one which we have initailized 
+in the main fuction itself 
+gobal variable one in which we initailized them before the main fucntion such that they can be used at all times 
+if we initailise it again in the main fucntion 
+that value will be used if we initailise it again in the if looop the new value will be used agagin
+if we are to not initailise it again we will be using the new value and the old value will be replaced 
+(::) this is known as the scope resolution operator it will acces the global variable no matter which block it is in 
+for eg
+
+cout<<""globla a <<::a  so this is the global scope variable 
+by this we will be able to get the global value in 
+

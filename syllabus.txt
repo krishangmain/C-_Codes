@@ -1,0 +1,20 @@
+arrays 
+char 
+functions
+pointers
+STL   (binary seach advanced concepts)
+recursion 
+time space complexity 
+oops 
+linked list 
+trees
+heap
+Stack and queue
+Dynamic programming 
+graphs 
+
+
+CP extrtas 
+segmet trees
+disjoint set union 
+

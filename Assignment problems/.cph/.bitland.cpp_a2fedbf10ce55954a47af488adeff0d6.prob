@@ -1,0 +1,1 @@
+{"name":"Local: bitland","url":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\Assignment problems\\bitland.cpp","tests":[{"id":1706201431712,"input":"7\nX--\n++X\nX++\n++X\n--X\n--X\nX--","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\Assignment problems\\bitland.cpp","group":"local","local":true}

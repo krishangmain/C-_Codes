@@ -1,0 +1,1 @@
+{"name":"Local: allocationofbooktomstudents","url":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\allocationofbooktomstudents.cpp","tests":[{"id":1706337184442,"input":"5\n30 40 20 70 10\n2","output":"90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\allocationofbooktomstudents.cpp","group":"local","local":true}

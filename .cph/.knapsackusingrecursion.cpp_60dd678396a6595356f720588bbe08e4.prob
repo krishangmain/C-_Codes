@@ -1,0 +1,1 @@
+{"name":"Local: knapsackusingrecursion","url":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\knapsackusingrecursion.cpp","tests":[{"id":1705209750060,"input":"6\n2 3 4 5 8 2 \n5 1 2 1 7 4 \n10","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Krishang Virmani\\Desktop\\CB C++\\knapsackusingrecursion.cpp","group":"local","local":true}
